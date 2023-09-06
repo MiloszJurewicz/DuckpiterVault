@@ -2,6 +2,8 @@
 #integrationTesting
 #docker
 
+[[testing]]
+
 URL: 
 https://github.com/testcontainers
 https://testcontainers.com/

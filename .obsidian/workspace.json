@@ -26,9 +26,113 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "89fc7e1fa955ec8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Value Object.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aefdf04ad603b5b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Legacy code refactoring - issues.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d39e7758d8df2925",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Legacy code refactoring - issues.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9bc4e5fc259b7370",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Legacy code refactoring - issues.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a37a64cc97f1c2c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Legacy code refactoring - issues.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "179210212a92f4bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Value Object.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "591a66658689d29c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Change Coupling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f568e2ef636b224d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Legacy code refactoring - issues.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05bf8f780a12b25f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -74,8 +178,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +198,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test Containers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +214,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test Containers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +235,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Test Containers.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -156,9 +255,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "952a86612cdcfb0c",
+  "active": "05bf8f780a12b25f",
   "lastOpenFiles": [
     "Test Containers.md",
+    "Change Coupling.md",
+    "General path of refactoring.md",
+    "Untitled.canvas",
+    "Test fixture.md",
+    "Learning sources.md",
+    "Legacy code refactoring - issues.md",
+    "Value Object.md",
+    "lLegacy.md",
+    "refactoring.md",
     "Untitled"
   ]
 }
