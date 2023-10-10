@@ -4,6 +4,8 @@
 URL: https://github.com/legacyfighter/cabs-java
 
 relates to: [[Refactoring]], [[Value Object]], [[Legacy]]
+## Issue of replicated validation
+
 ## Issue of variety of presentation - [[Refactoring]] to [[Value Object]]
 
 Issue when some value needs to be presented in multiple ways to api caller, while internal representation might not change. Example would be internally we store distance in kilometers only but caller would like to see it in [miles, yards, whatever]
@@ -27,6 +29,14 @@ Helpful analytical questions:
 - Can you find logical connection between data that creates cohesive unit. Why there is such connection? Maybe it can be found on buisness level for example in a way that buisness is talking about feature.
 - Can you find specific wording for given buisness in source code? What is it form?
 
-
-
 Solve with: Make the implicit explicit  - Tells you that if you have to reason about some domain concept from code you can make it explicit. 
+
+## Issue of low cohesion 
+
+low cohesion may be noticed when
+- you need to check same rules  in multiple places before modifying state
+- you need to modify same fields in multiple places together 
+- object is open to any modifications via getters and setters 
+How to solve
+- encapsulate logic, rules and data in one place. Encapsulate it behind stable interface 
+	- This gives you local reasoning and easy refactoring
