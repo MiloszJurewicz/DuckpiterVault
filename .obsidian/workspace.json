@@ -21,6 +21,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Test Containers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89fc7e1fa955ec8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Value Object.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aefdf04ad603b5b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Legacy code refactoring - issues.md",
                 "mode": "source",
                 "source": false
@@ -28,19 +52,121 @@
             }
           },
           {
-            "id": "b97cb4d80baef8bf",
+            "id": "d39e7758d8df2925",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-09-16.md",
+                "file": "Legacy code refactoring - issues.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9bc4e5fc259b7370",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Legacy code refactoring - issues.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a37a64cc97f1c2c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Legacy code refactoring - issues.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "179210212a92f4bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Value Object.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "591a66658689d29c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Change Coupling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f568e2ef636b224d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Legacy code refactoring - issues.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05bf8f780a12b25f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Legacy code refactoring - issues.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8875927012c4055",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
+          },
+          {
+            "id": "d8dd6c10c631a7d5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "097c3fe9a393348c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "authorization/Auth start - lets learn more about auth.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -106,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Legacy code refactoring - issues.md",
+                "file": "authorization/Auth start - lets learn more about auth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +249,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Legacy code refactoring - issues.md",
+                "file": "authorization/Auth start - lets learn more about auth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,12 +272,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Legacy code refactoring - issues.md"
+                "file": "authorization/Auth start - lets learn more about auth.md"
               }
             }
           },
           {
-            "id": "6aa6ec75cad8f37c",
+            "id": "360ddad3a1fc144a",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -160,8 +286,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,20 +303,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "30bf186786786b57",
+  "active": "097c3fe9a393348c",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "authorization/Auth start - lets learn more about auth.md",
+    "authorization",
     "Legacy code refactoring - issues.md",
     "Test Containers.md",
-    "Value Object.md",
     "Test fixture.md",
-    "Learning sources.md",
+    "Value Object.md",
     "General path of refactoring.md",
-    "Change Coupling.md",
-    "Test.md",
     "2023-09-16.md",
-    "Untitled 1.canvas",
-    "Untitled",
-    "2023-09-04.md"
+    "Untitled.canvas",
+    "Change Coupling.md",
+    "Learning sources.md",
+    "lLegacy.md",
+    "refactoring.md"
   ]
 }
