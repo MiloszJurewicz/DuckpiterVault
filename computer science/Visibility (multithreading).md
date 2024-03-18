@@ -1,0 +1,1 @@
+changes made by one thread to the shared data are visible to other threads to maintain data consistency 

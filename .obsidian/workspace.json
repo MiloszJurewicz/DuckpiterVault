@@ -8,27 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "93ace8e6cfdd82b4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "30bf186786786b57",
+            "id": "31ad3cd655807dd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test Containers.md",
+                "file": "computer science/Ensuring consistent behaviour.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "89fc7e1fa955ec8a",
+            "id": "092904436a079ca5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -40,133 +32,15 @@
             }
           },
           {
-            "id": "aefdf04ad603b5b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Legacy code refactoring - issues.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d39e7758d8df2925",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Legacy code refactoring - issues.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9bc4e5fc259b7370",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Legacy code refactoring - issues.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a37a64cc97f1c2c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Legacy code refactoring - issues.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "179210212a92f4bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Value Object.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "591a66658689d29c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Change Coupling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f568e2ef636b224d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Legacy code refactoring - issues.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05bf8f780a12b25f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Legacy code refactoring - issues.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8875927012c4055",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.12"
-              }
-            }
-          },
-          {
-            "id": "d8dd6c10c631a7d5",
+            "id": "1ad62cbabf330d86",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "097c3fe9a393348c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "authorization/Auth start - lets learn more about auth.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -216,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "dffb68668ca70939",
@@ -232,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "authorization/Auth start - lets learn more about auth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "authorization/Auth start - lets learn more about auth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -271,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "authorization/Auth start - lets learn more about auth.md"
-              }
+              "state": {}
             }
           },
           {
@@ -282,7 +152,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -303,20 +175,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "097c3fe9a393348c",
+  "active": "1ad62cbabf330d86",
   "lastOpenFiles": [
-    "authorization/Auth start - lets learn more about auth.md",
-    "authorization",
-    "Legacy code refactoring - issues.md",
-    "Test Containers.md",
-    "Test fixture.md",
-    "Value Object.md",
-    "General path of refactoring.md",
-    "2023-09-16.md",
     "Untitled.canvas",
-    "Change Coupling.md",
+    "Test fixture.md",
+    "Test Containers.md",
     "Learning sources.md",
-    "lLegacy.md",
-    "refactoring.md"
+    "refactoring/General path of refactoring.md",
+    "refactoring/Legacy code refactoring - issues.md",
+    "refactoring/Change Coupling.md",
+    "authorization/Auth start - lets learn more about auth.md",
+    "design principles/SOLID is not solid.md",
+    "design principles/SOLID.md",
+    "design principles/12 Factor app.md",
+    "computer science/Visibility (multithreading).md",
+    "computer science/Thread.md",
+    "computer science/Process.md",
+    "computer science/Multithreading (computer architecture).md",
+    "computer science/Ensuring consistent behaviour.md",
+    "java/JVM process.md",
+    "java/keywords/volatile.md",
+    "Value Object.md",
+    "databases/A.C.I.D/A.C.I.D.md",
+    "databases/C.A.P",
+    "databases/A.C.I.D/isolation  (database systems).md",
+    "databases/A.C.I.D/consistency (database systems).md",
+    "databases/A.C.I.D/durability (database systems).md",
+    "databases/atomicity (database systems).md",
+    "isolation  (data§base systems).md",
+    "databases/A.C.I.D",
+    "Visibility (multhreading).md",
+    "refactoring",
+    "java/keywords",
+    "computer science",
+    "java/multithreading",
+    "java",
+    "design principles",
+    "databases/sql",
+    "Sql/Untitled"
   ]
 }

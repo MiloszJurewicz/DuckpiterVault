@@ -1,0 +1,2 @@
+#acid 
+Transactions are often composed of multiple statements. Atomicity guarantees that each transaction is treated as a single "unit", which either succeeds completely of fails completely. If any of the statements that is part of transaction fails to complete, the entire transaction failed and the database is left unchanged.    

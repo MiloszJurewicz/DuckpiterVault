@@ -1,0 +1,1 @@
+Sometimes called lightweight processes. Like process they provide execution environment but creating a new thread requires fewer resources than creating a new process. Threads exist within a process. Every process has at least one thread. Threads share the process resources, including memory and open files. 
