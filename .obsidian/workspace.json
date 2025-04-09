@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer science/Ensuring consistent behaviour.md",
+                "file": "kubernetes/K8S Deployment.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "K8S Deployment"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "Value Object.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Value Object"
             }
           },
           {
@@ -36,7 +40,9 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -45,14 +51,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer science/Ensuring consistent behaviour.md",
+                "file": "refactoring/Change Coupling.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Change Coupling"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -71,8 +79,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -87,7 +98,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -95,14 +108,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 417.5
+    "width": 200
   },
   "right": {
     "id": "dffb68668ca70939",
@@ -118,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer science/Ensuring consistent behaviour.md",
+                "file": "kubernetes/Kubernetes into.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +141,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Kubernetes into"
             }
           },
           {
@@ -135,10 +152,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer science/Ensuring consistent behaviour.md",
+                "file": "kubernetes/Kubernetes into.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Kubernetes into"
             }
           },
           {
@@ -148,8 +167,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -158,8 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer science/Ensuring consistent behaviour.md"
-              }
+                "file": "kubernetes/Kubernetes into.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Kubernetes into"
             }
           },
           {
@@ -171,7 +199,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
@@ -191,44 +221,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ffcbd67578a924b",
+  "active": "092904436a079ca5",
   "lastOpenFiles": [
-    "2024-06-06.md",
-    "Untitled 1.canvas",
-    "Learning sources.md",
-    "Java Candidate.xmind",
-    "refactoring/Legacy code refactoring - issues.md",
-    "refactoring/General path of refactoring.md",
+    "kubernetes/K8S Deployment.md",
+    "concept1.md",
+    "Untitled.md",
+    "kubernetes/K8S Pod.md",
+    "kubernetes/K8S Control Plane.md",
+    "kubernetes/Kubernetes into.md",
+    "kubernetes/K8S Worker Node.md",
+    "computer science/Ensuring consistent behaviour.md",
+    "Value Object.md",
     "refactoring/Change Coupling.md",
-    "java/JVM process.md",
-    "java/keywords/volatile.md",
-    "design principles/SOLID is not solid.md",
-    "design principles/SOLID.md",
+    "Learning sources.md",
+    "refactoring/General path of refactoring.md",
+    "refactoring/Legacy code refactoring - issues.md",
+    "Test fixture.md",
+    "Test Containers.md",
+    "sources.md",
+    "kubernetes",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "2024-06-06.md",
     "design principles/12 Factor app.md",
-    "databases/atomicity (database systems).md",
-    "databases/A.C.I.D/durability (database systems).md",
+    "databases/A.C.I.D/atomicity (database systems).md",
     "databases/A.C.I.D/isolation  (database systems).md",
     "databases/A.C.I.D/consistency (database systems).md",
+    "databases/A.C.I.D/durability (database systems).md",
     "computer science/Visibility (multithreading).md",
     "computer science/Thread.md",
     "computer science/Process.md",
     "computer science/Multithreading (computer architecture).md",
-    "computer science/Ensuring consistent behaviour.md",
-    "Untitled.canvas",
-    "Test fixture.md",
-    "Test Containers.md",
-    "authorization/Auth start - lets learn more about auth.md",
-    "Value Object.md",
-    "databases/A.C.I.D/A.C.I.D.md",
+    "Java Candidate.xmind",
     "databases/C.A.P",
-    "isolation  (data§base systems).md",
     "databases/A.C.I.D",
     "refactoring",
     "java/keywords",
     "computer science",
     "java/multithreading",
     "java",
-    "design principles",
-    "databases/sql"
+    "design principles"
   ]
 }
