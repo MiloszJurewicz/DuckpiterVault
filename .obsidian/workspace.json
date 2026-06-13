@@ -67,14 +67,14 @@
             "id": "50108389af241b7b",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/K8S Worker Node.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "K8S Worker Node"
             }
           }
         ],
@@ -250,12 +250,12 @@
   },
   "active": "50108389af241b7b",
   "lastOpenFiles": [
-    "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/K8S Worker Node.md",
-    "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/Kubernetes into.md",
-    "Tech Knowledge/20-Reference/Learning sources.md",
     "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/K8S Pod.md",
     "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/K8S Deployment.md",
     "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/K8S Control Plane.md",
+    "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/K8S Worker Node.md",
+    "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/Kubernetes into.md",
+    "Tech Knowledge/20-Reference/Learning sources.md",
     "Tech Knowledge/10-Domains/Architecture/Value Object.md",
     "Tech Knowledge/10-Domains/Architecture/refactoring/Legacy code refactoring - issues.md",
     "Tech Knowledge/10-Domains/Architecture/refactoring/General path of refactoring.md",
