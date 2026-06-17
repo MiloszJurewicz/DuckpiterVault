@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech Knowledge/10-Domains/Networking/ARP.md",
+                "file": "Tech Knowledge/10-Domains/Networking/DHCP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ARP"
+              "title": "DHCP"
             }
           }
         ],
@@ -262,15 +262,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ffcbd67578a924b",
+  "active": "065461936abc567c",
   "lastOpenFiles": [
+    "Tech Knowledge/10-Domains/Networking/L2 vs L3.md",
+    "Tech Knowledge/10-Domains/Networking/DHCP.md",
+    "Tech Knowledge/10-Domains/Networking/ARP.md",
     "Tech Knowledge/10-Domains/Networking/layer 2",
     "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/K8S Worker Node.md",
     "Tech Knowledge/10-Domains/DevOps & Infra/Networking/Untitled.md",
     "Tech Knowledge/10-Domains/Networking/Subnet.md",
-    "Tech Knowledge/10-Domains/Networking/L2 vs L3.md",
-    "Tech Knowledge/10-Domains/Networking/DHCP.md",
-    "Tech Knowledge/10-Domains/Networking/ARP.md",
     "Tech Knowledge/10-Domains/Networking",
     "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/MetalLB.md",
     "Tech Knowledge/10-Domains/DevOps & Infra/Networking",
@@ -300,7 +300,6 @@
     "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/K8S service",
     "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/attachments",
     "Tech Knowledge/10-Domains/Programming/java",
-    "Tech Knowledge/10-Domains/Programming/computer science",
     "kubernetes/attachments/K8S Cluster.png",
     "Pasted image 20250411135051.png",
     "Pasted image 20250411135050.png",
