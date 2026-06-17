@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "K8S Deployment Controller.md",
+                "file": "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/K8S Worker Node.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "K8S Deployment Controller"
+              "title": "K8S Worker Node"
             }
           }
         ],
@@ -264,13 +264,13 @@
   },
   "active": "065461936abc567c",
   "lastOpenFiles": [
-    "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/K8S Deployment.md",
-    "K8S Deployment Controller.md",
-    "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/Untitled.md",
     "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/K8S ReplicaSet.md",
-    "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/K8S Control Plane.md",
-    "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/K8S Worker Node.md",
     "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/K8S Pod.md",
+    "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/K8S Deployment Controller.md",
+    "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/K8S Deployment.md",
+    "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/K8S Control Plane.md",
+    "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/Untitled.md",
+    "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/K8S Worker Node.md",
     "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/Kubernetes into.md",
     "Tech Knowledge/20-Reference/Learning sources.md",
     "Tech Knowledge/10-Domains/Architecture/Value Object.md",
