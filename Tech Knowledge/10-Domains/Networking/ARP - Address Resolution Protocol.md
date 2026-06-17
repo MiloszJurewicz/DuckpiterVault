@@ -1,1 +1,0 @@
-ARP (Address Resolution Protocol) is a fundamental networking protocol used to map an **IP address (Layer 3)** to a **MAC address (Layer 2)** within a local network.
