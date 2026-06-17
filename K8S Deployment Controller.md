@@ -1,0 +1,1 @@
+A **Deployment Controller** is responsible for **lifecycle management of stateless applications**—creating, updating, scaling, monitoring, and rolling back the ReplicaSets that run your Pods.

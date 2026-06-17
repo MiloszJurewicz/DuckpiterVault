@@ -1,0 +1,1 @@
+A **ReplicaSet** in Kubernetes ensures that a specified number of identical Pod replicas are always running.
