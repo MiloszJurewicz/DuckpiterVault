@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/K8S Pod.md",
+                "file": "Tech Knowledge/00-Inbox/MetalLB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "K8S Pod"
+              "title": "MetalLB"
             }
           }
         ],
@@ -278,16 +278,19 @@
   },
   "active": "8cd1f7c5aeea58ba",
   "lastOpenFiles": [
-    "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/K8S Deployment Controller.md",
+    "Tech Knowledge/00-Inbox/OIDC.md",
+    "Tech Knowledge/00-Inbox/SOLID is not solid.md",
+    "Tech Knowledge/00-Inbox/SOLID.md",
+    "Tech Knowledge/10-Domains/Networking/DHCP.md",
+    "Tech Knowledge/10-Domains/Networking/Subnet.md",
+    "Tech Knowledge/10-Domains/Networking/ARP.md",
+    "Tech Knowledge/00-Inbox/Subnet.md",
     "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/K8S Pod.md",
+    "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/K8S Deployment Controller.md",
     "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/K8S ReplicaSet.md",
     "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/K8S Worker Node.md",
     "Tech Knowledge/00-Inbox/MetalLB.md",
     "Tech Knowledge/00-Inbox/Layers.md",
-    "Tech Knowledge/00-Inbox/Subnet.md",
-    "Tech Knowledge/10-Domains/Networking/Subnet.md",
-    "Tech Knowledge/10-Domains/Networking/DHCP.md",
-    "Tech Knowledge/10-Domains/Networking/ARP.md",
     "Tech Knowledge/10-Domains/Networking/L2 vs L3.md",
     "Tech Knowledge/10-Domains/Networking/layer 2",
     "Tech Knowledge/10-Domains/DevOps & Infra/Networking/Untitled.md",
@@ -303,11 +306,8 @@
     "Tech Knowledge/10-Domains/Architecture/refactoring/General path of refactoring.md",
     "Tech Knowledge/10-Domains/Architecture/refactoring/Change Coupling.md",
     "Tech Knowledge/00-Inbox/12 Factor app.md",
-    "Tech Knowledge/00-Inbox/SOLID is not solid.md",
-    "Tech Knowledge/00-Inbox/SOLID.md",
     "Tech Knowledge/00-Inbox",
     "Tech Knowledge/10-Domains/databases/A.C.I.D/A.C.I.D.md",
-    "Tech Knowledge/10-Domains/Programming/computer science/Visibility (multithreading).md",
     "Tech Knowledge/90-Archive",
     "Untitled 2.base",
     "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/attachments/K8S Cluster.png",
