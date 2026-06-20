@@ -1,0 +1,28 @@
+- What a TLS/SSL certificate is
+- Leaf/server certificate vs CA certificate
+- Certificate chain of trust
+- Root CA, intermediate CA, and leaf cert roles
+- Self-signed certificate
+- CA-issued certificate
+- SAN (Subject Alternative Name)
+- Common Name vs SAN
+- Wildcard certificates
+- Hostname matching rules
+- Certificate trust stores on Windows/Linux
+- Importing a CA into client trust stores
+- cert-manager basics
+- `Certificate` resource in cert-manager
+- `ClusterIssuer` and `Issuer` in cert-manager
+- `isCA: true` in cert-manager
+- Bootstrap CA with `selfSigned` issuer
+- CA secret in Kubernetes
+- Traefik default TLS certificate
+- Serving HTTPS for internal domains
+- Internal DNS names like `home.arpa`
+- Leaf certs signed by one shared root CA
+- Pattern without CA: self-signed leaf cert per site
+- Why the no-CA pattern causes trust sprawl
+- Certificate rotation and renewal
+- Avoiding multiple trusted certs on clients
+- Local development PKI
+- Browser certificate validation errors
