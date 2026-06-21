@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech Knowledge/00-Inbox/MetalLB.md",
+                "file": "Tech Knowledge/00-Inbox/DNS A record.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MetalLB"
+              "title": "DNS A record"
             }
           }
         ],
@@ -253,8 +253,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -272,17 +272,18 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ffcbd67578a924b",
+  "active": "8cd1f7c5aeea58ba",
   "lastOpenFiles": [
+    "Tech Knowledge/00-Inbox/MetalLB.md",
     "Tech Knowledge/00-Inbox/External DNS.md",
     "Tech Knowledge/00-Inbox/DNS CNAME record.md",
     "Tech Knowledge/00-Inbox/DNS AAAA record.md",
     "Tech Knowledge/00-Inbox/DNS A record.md",
     "Tech Knowledge/00-Inbox/DNS Record types.md",
-    "Tech Knowledge/00-Inbox/MetalLB.md",
     "Tech Knowledge/00-Inbox/Untitled",
     "Tech Knowledge/00-Inbox/OIDC.md",
     "Tech Knowledge/00-Inbox/SOLID is not solid.md",
