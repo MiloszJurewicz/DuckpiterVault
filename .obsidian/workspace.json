@@ -123,14 +123,14 @@
             "id": "7d508234825ccfd5",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
+                "file": "Tech Knowledge/00-Inbox/External DNS.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "External DNS"
             }
           }
         ],
@@ -306,24 +306,27 @@
   },
   "active": "7d508234825ccfd5",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Tech Knowledge/00-Inbox/DNS A record.md",
+    "Tech Knowledge/00-Inbox/DNS AAAA record.md",
+    "Tech Knowledge/00-Inbox/12 Factor app.md",
+    "Tech Knowledge/10-Domains/Networking/ARP.md",
+    "Tech Knowledge/10-Domains/Networking/DHCP.md",
+    "Tech Knowledge/10-Domains/Programming/computer science/Ensuring consistent behaviour.md",
+    "Tech Knowledge/00-Inbox/External DNS.md",
+    "Tech Knowledge/00-Inbox/Two network models for multiple Kubernetes clusters on one LAN.md",
+    "conflict-files-obsidian-git.md",
     "Tech Knowledge/00-Inbox/SSL certificates.md",
     "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/K8S ReplicaSet.md",
     "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/K8S Deployment Controller.md",
     "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/K8S Deployment.md",
     "Tech Knowledge/00-Inbox/MetalLB.md",
-    "Tech Knowledge/00-Inbox/External DNS.md",
     "Tech Knowledge/00-Inbox/DNS CNAME record.md",
-    "Tech Knowledge/00-Inbox/DNS AAAA record.md",
     "Tech Knowledge/00-Inbox/DNS Record types.md",
     "Tech Knowledge/00-Inbox/Untitled",
     "Tech Knowledge/00-Inbox/OIDC.md",
     "Tech Knowledge/00-Inbox/SOLID is not solid.md",
     "Tech Knowledge/00-Inbox/SOLID.md",
-    "Tech Knowledge/10-Domains/Networking/DHCP.md",
     "Tech Knowledge/10-Domains/Networking/Subnet.md",
-    "Tech Knowledge/10-Domains/Networking/ARP.md",
     "Tech Knowledge/00-Inbox/Subnet.md",
     "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/K8S Pod.md",
     "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/K8S Worker Node.md",
@@ -333,9 +336,6 @@
     "Tech Knowledge/10-Domains/DevOps & Infra/Networking/Untitled.md",
     "Tech Knowledge/10-Domains/Networking",
     "Tech Knowledge/10-Domains/DevOps & Infra/Networking",
-    "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/K8S Control Plane.md",
-    "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/Untitled.md",
-    "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/Kubernetes into.md",
     "Tech Knowledge/00-Inbox",
     "Tech Knowledge/90-Archive",
     "Untitled 2.base",
