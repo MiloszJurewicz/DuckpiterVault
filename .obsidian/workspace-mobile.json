@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c7c03f5dfb69e309",
+        "id": "69b613aca6e22c50",
         "type": "tabs",
         "children": [
           {
-            "id": "6ee1cc5fd757fd64",
+            "id": "eb10bc4537e93fce",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,7 +161,7 @@
       "bases:Stwórz nową bazę danych": false
     }
   },
-  "active": "6ee1cc5fd757fd64",
+  "active": "eb10bc4537e93fce",
   "lastOpenFiles": [
     "Tech Knowledge/00-Inbox/Two network models for multiple Kubernetes clusters on one LAN.md"
   ]
