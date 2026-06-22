@@ -104,9 +104,37 @@
               "icon": "lucide-file",
               "title": "DNS A record"
             }
+          },
+          {
+            "id": "d952474ac6465324",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
+            }
+          },
+          {
+            "id": "7d508234825ccfd5",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git  (Working Tree)"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -276,8 +304,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8cd1f7c5aeea58ba",
+  "active": "7d508234825ccfd5",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Tech Knowledge/00-Inbox/DNS A record.md",
+    "Tech Knowledge/00-Inbox/SSL certificates.md",
     "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/K8S ReplicaSet.md",
     "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/K8S Deployment Controller.md",
     "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/K8S Deployment.md",
@@ -285,7 +316,6 @@
     "Tech Knowledge/00-Inbox/External DNS.md",
     "Tech Knowledge/00-Inbox/DNS CNAME record.md",
     "Tech Knowledge/00-Inbox/DNS AAAA record.md",
-    "Tech Knowledge/00-Inbox/DNS A record.md",
     "Tech Knowledge/00-Inbox/DNS Record types.md",
     "Tech Knowledge/00-Inbox/Untitled",
     "Tech Knowledge/00-Inbox/OIDC.md",
@@ -306,8 +336,6 @@
     "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/K8S Control Plane.md",
     "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/Untitled.md",
     "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/Kubernetes into.md",
-    "Tech Knowledge/20-Reference/Learning sources.md",
-    "Tech Knowledge/10-Domains/Architecture/Value Object.md",
     "Tech Knowledge/00-Inbox",
     "Tech Knowledge/90-Archive",
     "Untitled 2.base",
