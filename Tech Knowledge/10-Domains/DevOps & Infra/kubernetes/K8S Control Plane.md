@@ -4,11 +4,11 @@ Collection of services that control cluster
 - Monitors the state of the clusters
 Manages the cluster and schedules workloads
 
+---
+
 #flashcards/k8s
 What is the Control Plane?::Collection of services that control the cluster
-<!--SR:!2026-06-23,0,230-->
 
-Users interact with the cluster using the ==Control Plane==
-<!--SR:!2026-06-23,0,230-->
+How do users interact with a Kubernetes cluster?::Through the Control Plane
 
-Control Plane:::Collection of services that control, monitor, manage, and schedule workloads on the cluster
+Name the four core responsibilities of the Control Plane.::Control the cluster, monitor cluster state, manage the cluster, schedule workloads

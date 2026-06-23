@@ -15,10 +15,10 @@ Each pod is meant to represent a single unit of deployment, and scaling horizont
 ---
 
 #flashcards/k8s
-What is the smallest deployable unit in Kubernetes?::Pod
+What do all containers inside a Pod share?::Storage and network resources
 
-Pods are designed as ==ephemeral disposable== entities
+Pods are designed as ==ephemeral disposable== entities — they get rescheduled rather than repaired
 
-How are Pods typically created?::Via workloads like Deployment or Job, rather than directly
+How are Pods typically created in practice?::Via higher-level workloads like Deployments or Jobs, not directly
 
-Pod:::Smallest deployable unit of computing; a group of one or more containers with shared storage and network resources
+Why scale horizontally with Pods rather than vertically?::Each Pod represents a single unit of deployment designed to run one instance of the application; you add more Pods to scale

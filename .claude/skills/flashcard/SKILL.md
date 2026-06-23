@@ -86,6 +86,34 @@ With hints:
 In Python, the ==GIL==^[Global Interpreter Lock] prevents ==true multi-threading==^[parallel execution] for CPU-bound tasks
 ```
 
+## CRITICAL: Design flashcards for context-blind review
+
+The Obsidian Spaced Repetition plugin **shows which note a card belongs to** during review. This means the page title is visible context — so **never create a card whose answer is the note's title or filename**. If the user is reviewing on `K8S Pod.md` and the card asks "What is the smallest deployable unit in Kubernetes?", the answer "Pod" is telegraphed and the card teaches nothing.
+
+### Rules for good flashcards
+
+| Avoid (page title = answer) | Better (tests understanding) |
+|---|---|
+| "What is a Pod?" → Pod | "What do all containers inside a Pod share?" → Storage and network resources |
+| "What is the Control Plane?" → Control Plane | "How do users interact with a cluster?" → Through the Control Plane |
+| "What is a ReplicaSet?" → ReplicaSet | "If a Pod in a ReplicaSet fails, what happens?" → It gets automatically replaced |
+| `Pod:::Smallest deployable unit...` (bidirectional where one side IS the title) | `Self-healing via replacement:::ReplicaSet` (bidirectional linking concept↔concept) |
+| `Users interact via the ==Control Plane==` (clozing the page title) | `Workloads are scheduled onto nodes by the ==Control Plane==` (clozing a *different* concept's name) |
+
+### Principles
+
+1. **Ask about properties, not names.** "What does X do?" not "What is X?"
+2. **Ask about relationships.** "What resources does a Deployment manage?" tests the link between Deployment→Pods/ReplicaSets.
+3. **Ask about behaviors.** "What happens when a Pod fails?" is much better than "What is a Pod?"
+4. **Use cloze for cross-concept recall.** On a Worker Node page, clozing `==Control Plane==` tests recall of the other component. On a Control Plane page, clozing `==Control Plane==` is trivial — don't do it.
+5. **Bidirectional cards should link concept↔concept**, not concept-name↔its-definition. `Deployment:::Declarative updates` is weak (one side IS the title); `Self-healing via replacement:::ReplicaSet` is strong (both sides are concepts).
+
+### Self-check: Before writing a card, ask
+
+- Is the answer literally the page title? → **Rewrite.**
+- Could the user guess the answer just by seeing which note they're on? → **Rewrite.**
+- Does this card test understanding rather than name recognition? → **Good.**
+
 ## Deck organization
 
 Cards must be tagged with a deck tag. **Place the tag on a line above the cards it applies to.**
@@ -104,6 +132,22 @@ _Tag placement rules:_
 - A tag on the **same line** as a card's first line only applies to that one card.
 - Multiple tags on one line assign the card to **multiple decks**.
 - Tags create nested decks: `#flashcards/networking/dns` → Deck: "networking > dns"
+
+### Flashcard placement rules
+- ALWAYS place flashcards at the **bottom** of the note, after all main content.
+- ALWAYS separate flashcards from the main content with `---` (three dashes) on its own line.
+- The deck tag (`#flashcards/...`) goes on the line immediately after the `---` separator, followed by the cards.
+
+```
+...main note content ends here...
+
+---
+
+#flashcards/k8s
+Question one::Answer one
+
+Key term in context ==clozed==
+```
 
 ### Vault deck suggestions
 Based on the vault structure at `Tech Knowledge/`, suggest decks like:
