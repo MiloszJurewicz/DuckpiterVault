@@ -16,9 +16,12 @@ Each pod is meant to represent a single unit of deployment, and scaling horizont
 
 #flashcards/k8s
 What do all containers inside a Pod share?::Storage and network resources
+<!--SR:!2026-06-23,0,230-->
 
 Pods are designed as ==ephemeral disposable== entities — they get rescheduled rather than repaired
 
 How are Pods typically created in practice?::Via higher-level workloads like Deployments or Jobs, not directly
+<!--SR:!2026-06-23,0,230-->
 
 Why scale horizontally with Pods rather than vertically?::Each Pod represents a single unit of deployment designed to run one instance of the application; you add more Pods to scale
+<!--SR:!2026-06-23,0,230-->

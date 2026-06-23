@@ -8,7 +8,9 @@ A machine that runs containers within the cluster
 
 #flashcards/k8s
 What are the three responsibilities of a Worker Node?::Run workloads (containers inside Pods), manage containers on the node, monitor and report container status back to the Control Plane
+<!--SR:!2026-06-23,0,230-->
 
 Worker Nodes report container health and status back to the ==Control Plane==
+<!--SR:!2026-06-23,0,230-->
 
 Where do Pods actually execute in the cluster?::On Worker Nodes
