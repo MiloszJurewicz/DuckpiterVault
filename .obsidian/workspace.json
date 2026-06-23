@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech Knowledge/00-Inbox/DNS CNAME record.md",
+                "file": "Tech Knowledge/00-Inbox/DNS A record.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DNS CNAME record"
+              "title": "DNS A record"
             }
           }
         ],
@@ -317,6 +317,7 @@
   },
   "active": "7d508234825ccfd5",
   "lastOpenFiles": [
+    "Tech Knowledge/00-Inbox/DNS CNAME record.md",
     "Tech Knowledge/00-Inbox/External DNS.md",
     "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/K8S Pod.md",
     "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/K8S Worker Node.md",
@@ -338,7 +339,6 @@
     "Tech Knowledge/00-Inbox/Two network models for multiple Kubernetes clusters on one LAN.md",
     "conflict-files-obsidian-git.md",
     "Tech Knowledge/00-Inbox/MetalLB.md",
-    "Tech Knowledge/00-Inbox/DNS CNAME record.md",
     "Tech Knowledge/00-Inbox/DNS Record types.md",
     "Tech Knowledge/00-Inbox/Untitled",
     "Tech Knowledge/00-Inbox/OIDC.md",
