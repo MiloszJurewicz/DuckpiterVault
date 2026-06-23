@@ -11,3 +11,14 @@ Usually you don't create pods directly. You create the by using [[K8S workloads]
 Typically each pod is meant to run single instance of application. 
 
 Each pod is meant to represent a single unit of deployment, and scaling horizontally
+
+---
+
+#flashcards/k8s
+What do all containers inside a Pod share?::Storage and network resources
+
+Pods are designed as ==ephemeral disposable== entities — they get rescheduled rather than repaired
+
+How are Pods typically created in practice?::Via higher-level workloads like Deployments or Jobs, not directly
+
+Why scale horizontally with Pods rather than vertically?::Each Pod represents a single unit of deployment designed to run one instance of the application; you add more Pods to scale
