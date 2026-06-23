@@ -11,3 +11,12 @@ Usually you don't create pods directly. You create the by using [[K8S workloads]
 Typically each pod is meant to run single instance of application. 
 
 Each pod is meant to represent a single unit of deployment, and scaling horizontally
+
+#flashcards/k8s
+What is the smallest deployable unit in Kubernetes?::Pod
+
+Pods are designed as ==ephemeral disposable== entities
+
+How are Pods typically created?::Via workloads like Deployment or Job, rather than directly
+
+Pod:::Smallest deployable unit of computing; a group of one or more containers with shared storage and network resources
