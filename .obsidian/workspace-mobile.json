@@ -146,12 +146,24 @@
           "icon": "lucide-list",
           "title": "Konspekt"
         }
+      },
+      {
+        "id": "7d799b02695c69d6",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
       }
     ],
     "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "obsidian-spaced-repetition:Przeglądaj fiszki": false,
       "switcher:Otwórz okno szybkiego wyboru": false,
       "graph:Otwórz podgląd grafu": false,
       "canvas:Stwórz nową tablicę": false,
