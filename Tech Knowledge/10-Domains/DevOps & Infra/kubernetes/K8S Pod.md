@@ -12,6 +12,8 @@ Typically each pod is meant to run single instance of application.
 
 Each pod is meant to represent a single unit of deployment, and scaling horizontally
 
+---
+
 #flashcards/k8s
 What is the smallest deployable unit in Kubernetes?::Pod
 
