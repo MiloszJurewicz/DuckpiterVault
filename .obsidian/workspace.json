@@ -284,9 +284,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "8d4de5c555528a2b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -301,13 +311,14 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "7d508234825ccfd5",
+  "active": "8d4de5c555528a2b",
   "lastOpenFiles": [
-    "Tech Knowledge/00-Inbox/SSL certificates.md",
     "Tech Knowledge/00-Inbox/TLS.md",
+    "Tech Knowledge/00-Inbox/SSL certificates.md",
     "Tech Knowledge/00-Inbox/Subnet.md",
     "Tech Knowledge/90-Archive/Test Containers.md",
     "Tech Knowledge/90-Archive/Test fixture.md",
