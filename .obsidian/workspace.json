@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/K8S Pod.md",
+                "file": "Tech Knowledge/00-Inbox/DNS CNAME record.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "K8S Pod"
+              "title": "DNS CNAME record"
             }
           }
         ],
@@ -317,9 +317,10 @@
   },
   "active": "7d508234825ccfd5",
   "lastOpenFiles": [
+    "Tech Knowledge/00-Inbox/External DNS.md",
+    "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/K8S Pod.md",
     "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/K8S Worker Node.md",
     "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/K8S ReplicaSet.md",
-    "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/K8S Pod.md",
     "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/K8S Deployment Controller.md",
     "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/K8S Deployment.md",
     "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/K8S Control Plane.md",
@@ -329,7 +330,6 @@
     "Tech Knowledge/90-Archive/Test Containers.md",
     "Tech Knowledge/90-Archive/Test fixture.md",
     "Tech Knowledge/00-Inbox/DNS A record.md",
-    "Tech Knowledge/00-Inbox/External DNS.md",
     "Tech Knowledge/00-Inbox/DNS AAAA record.md",
     "Tech Knowledge/00-Inbox/12 Factor app.md",
     "Tech Knowledge/10-Domains/Networking/ARP.md",
