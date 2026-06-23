@@ -11,10 +11,14 @@
             "id": "eb10bc4537e93fce",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/K8S Deployment Controller.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nowa karta"
+              "title": "K8S Deployment Controller"
             }
           }
         ]
