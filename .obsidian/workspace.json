@@ -95,14 +95,14 @@
             "id": "d952474ac6465324",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Tech Knowledge/10-Domains/Networking/DNS/DNS.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "DNS"
             }
           }
         ],
@@ -289,6 +289,7 @@
   },
   "active": "d952474ac6465324",
   "lastOpenFiles": [
+    "Tech Knowledge/00-Inbox/Two network models for multiple Kubernetes clusters on one LAN.md",
     "Tech Knowledge/00-Inbox/DNS A record.md",
     "Tech Knowledge/10-Domains/Networking/DNS/records/DNS SRV record.md",
     "Tech Knowledge/10-Domains/Networking/DNS/records/DNS TXT record.md",
@@ -315,7 +316,6 @@
     "Tech Knowledge/10-Domains/Networking/DNS/DNS in Kubernetes.md",
     "Tech Knowledge/10-Domains/Networking/DNS/DNS caching.md",
     "Tech Knowledge/10-Domains/Networking/DNS/DNS cache poisoning.md",
-    "Tech Knowledge/10-Domains/Networking/DNS/Anycast DNS.md",
     "Tech Knowledge/10-Domains/Networking/DNS",
     "Tech Knowledge/00-Inbox/Untitled",
     "Tech Knowledge/10-Domains/Networking/layer 2",
