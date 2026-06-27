@@ -1,0 +1,3 @@
+# DNS server types
+
+#todo

@@ -1,0 +1,3 @@
+# DNS query types
+
+#todo
