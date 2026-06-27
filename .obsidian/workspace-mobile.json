@@ -11,10 +11,14 @@
             "id": "eb10bc4537e93fce",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Tech Knowledge/10-Domains/Networking/DNS/DNS in Kubernetes.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nowa karta"
+              "title": "DNS in Kubernetes"
             }
           }
         ]
@@ -172,10 +176,35 @@
       "bases:Stwórz nową bazę danych": false
     }
   },
-  "active": "7d799b02695c69d6",
+  "active": "eb10bc4537e93fce",
   "lastOpenFiles": [
-    "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/K8S Deployment Controller.md",
-    "Tech Knowledge/00-Inbox/TLS.md",
-    "Tech Knowledge/00-Inbox/Two network models for multiple Kubernetes clusters on one LAN.md"
+    "Tech Knowledge/10-Domains/Networking/DNS/Split-horizon DNS.md",
+    "Tech Knowledge/10-Domains/Networking/DNS/records/DNS TXT record.md",
+    "Tech Knowledge/10-Domains/Networking/DNS/records/DNS SRV record.md",
+    "Tech Knowledge/10-Domains/Networking/DNS/records/DNS SOA record.md",
+    "Tech Knowledge/10-Domains/Networking/DNS/records/DNS PTR record.md",
+    "Tech Knowledge/10-Domains/Networking/DNS/records/DNS NS record.md",
+    "Tech Knowledge/10-Domains/Networking/DNS/records/DNS MX record.md",
+    "Tech Knowledge/10-Domains/Networking/DNS/records/DNS CNAME record.md",
+    "Tech Knowledge/10-Domains/Networking/DNS/records/DNS CAA record.md",
+    "Tech Knowledge/10-Domains/Networking/DNS/records/DNS AAAA record.md",
+    "Tech Knowledge/10-Domains/Networking/DNS/records/DNS A record.md",
+    "Tech Knowledge/10-Domains/Networking/DNS/records",
+    "Tech Knowledge/10-Domains/Networking/DNS/EDNS.md",
+    "Tech Knowledge/10-Domains/Networking/DNS/Domain hierarchy.md",
+    "Tech Knowledge/10-Domains/Networking/DNS/DNSSEC.md",
+    "Tech Knowledge/10-Domains/Networking/DNS/DNS.md",
+    "Tech Knowledge/10-Domains/Networking/DNS/DNS zone.md",
+    "Tech Knowledge/10-Domains/Networking/DNS/DNS server types.md",
+    "Tech Knowledge/10-Domains/Networking/DNS/DNS resolution.md",
+    "Tech Knowledge/10-Domains/Networking/DNS/DNS records.md",
+    "Tech Knowledge/10-Domains/Networking/DNS/DNS query types.md",
+    "Tech Knowledge/10-Domains/Networking/DNS/DNS over HTTPS.md",
+    "Tech Knowledge/10-Domains/Networking/DNS/DNS in Kubernetes.md",
+    "Tech Knowledge/10-Domains/Networking/DNS/DNS caching.md",
+    "Tech Knowledge/10-Domains/Networking/DNS/DNS cache poisoning.md",
+    "Tech Knowledge/10-Domains/Networking/DNS/Anycast DNS.md",
+    "Tech Knowledge/10-Domains/Networking/DNS",
+    "Tech Knowledge/10-Domains/DevOps & Infra/kubernetes/K8S Deployment Controller.md"
   ]
 }
